@@ -1,14 +1,17 @@
 # Reactjs Form Generator Example
+[Bootstrap 3][bootstrap] components built with [React][react].
 
-git clone 
+git clone https://github.com/dwilanang/reactjs-formgnerator-example.git
 
 ## Docs
 
-See the [documentation][documentation] with live editable examples.
+See the [documentation] http://dwilanang.github.io/reactjs-formgnerator-example with live editable examples.
 
 ## Related modules
 
-- [react-router-bootstrap][react-router-bootstrap] – Integration with [React Router][react-router]
+- [react-router-bootstrap]
+- [react-addons-update]
+- [react-json-pretty]
 
 ## Local setup
 
