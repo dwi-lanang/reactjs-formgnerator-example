@@ -5,7 +5,7 @@ git clone https://github.com/dwilanang/reactjs-formgnerator-example.git
 
 ## Docs
 
-See the [DOCUMENTATION] (https://dwilanang.github.io/reactjs-formgnerator/docs.html) with live editable examples.
+See the [documentation] (https://dwilanang.github.io/reactjs-formgnerator/docs.html) with live editable examples.
 
 ## Related modules
 
