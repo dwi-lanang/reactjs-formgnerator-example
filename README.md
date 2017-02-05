@@ -5,13 +5,13 @@ git clone https://github.com/dwilanang/reactjs-formgnerator-example.git
 
 ## Docs
 
-See the [DOCUMENTATION] (https://react-bootstrap.github.io/getting-started.html)with live editable examples.
+See the [DOCUMENTATION] (https://dwilanang.github.io/reactjs-formgnerator/docs.html) with live editable examples.
 
 ## Related modules
 
-- [react-router-bootstrap]
-- [react-addons-update]
-- [react-json-pretty]
+- [react-router-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+- [react-addons-update](https://facebook.github.io/react/docs/update.html)
+- [react-json-pretty](https://github.com/chenckang/react-json-pretty)
 
 ## Local setup
 
