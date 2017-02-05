@@ -1,5 +1,5 @@
 # Reactjs Form Generator Example
-[Bootstrap 3][bootstrap] components built with [React][react].
+[Bootstrap 3](http://getbootstrap.com/) components built with [React][http://facebook.github.io/react/].
 
 git clone https://github.com/dwilanang/reactjs-formgnerator-example.git
 
