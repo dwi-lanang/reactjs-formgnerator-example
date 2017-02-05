@@ -1,4 +1,4 @@
-# Reactjs Form Gnerator Example
+# Reactjs Form Generator Example
 
 git clone 
 
